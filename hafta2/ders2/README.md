@@ -1,4 +1,4 @@
-GÜNÜN KONULARI (1.Hafta, 3.Gün - 07.02.2025 Çr)
+GÜNÜN KONULARI (2.Hafta, 2.Gün - 10.02.2025 Çr)
 
 1.,2.,3.Ders: if, operatörler, def
 if : https://docs.google.com/presentation/d/19WDRmJva4bAWlW9qppDk_3aCM1q3lOgJXIU7rR54kvk/edit?usp=drive_link
