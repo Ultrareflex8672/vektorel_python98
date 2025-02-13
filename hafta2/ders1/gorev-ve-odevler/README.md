@@ -1,0 +1,1 @@
+<h1>Verien "github'tan repo clonlayın ve githuba geri gönderin." görevi "https://github.com/Ultrareflex8672/vektorel_python98" repository üzerinden yapıldı</h1>

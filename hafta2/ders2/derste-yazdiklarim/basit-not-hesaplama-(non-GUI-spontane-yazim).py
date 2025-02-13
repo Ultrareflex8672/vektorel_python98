@@ -19,8 +19,7 @@ def sor(soru, tip=int):
                 return cevap
         except:
             print("Hatalı Bir Giriş Yaptınız\n")
-            sor(soru, tip)
-                
+            sor(soru, tip)             
     
 def not_kontrol(not1="", not2=""):
     if not1 == "" or not2 == "":
@@ -31,6 +30,7 @@ def not_kontrol(not1="", not2=""):
         if not2 < 0.0 or not2 > 100.0:
             raise ValueError("Notlar 0 ile 100 arasında olmalıdır")
         return True
+
 
 def hesap(not1="", not2="",):
     kontrol = not_kontrol(not1, not2)
