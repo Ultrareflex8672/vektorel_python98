@@ -1,1 +1,1 @@
-henüz yapılmadı
+14.02.2025 Tarihinde Yapıldı Gün Özeti Eklenecek
