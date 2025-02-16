@@ -1,4 +1,4 @@
-GÜNÜN KONULARI (2.Hafta, 3.Gün - 07.02.2025 Cu)
+GÜNÜN KONULARI (2.Hafta, 3.Gün - 14.02.2025 Cu)
 
 1.,2.,3.Ders: modul, kütüphane kavramları ve for
 Modul-kütüphane : https://docs.google.com/presentation/d/1cC9JF11Waayj3-qEFg4bB1qJwYMW3s0z1-kikLIfpiE/edit?usp=drive_link
