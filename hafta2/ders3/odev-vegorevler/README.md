@@ -1,1 +1,0 @@
-14.02.2025 Tarihinde Yapıldı Odev ve Gorevler Eklenecek
