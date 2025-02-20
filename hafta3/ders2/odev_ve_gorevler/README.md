@@ -1,1 +1,1 @@
-<h1>Düzenleniyor</h1>
+<h1>Verien "date time kütüphanesi örneklerini yapınız" görevi "https://github.com/Ultrareflex8672/vektorel_python98" repository üzerinde bulunan projeye LOG fonksiyonu eklenerek yapılıyor.</h1>
